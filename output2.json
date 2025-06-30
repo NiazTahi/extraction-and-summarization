@@ -1,0 +1,33 @@
+{
+  "cin": "U74999KA2016PTC095981",
+  "company_name": "ALUPA FOODS PRIVATE LIMITED",
+  "registered_office": "Registered Office Address, Karnataka, India",
+  "email": "mail@alupafoods.in",
+  "appointment_type": "Statutory Auditor",
+  "number_of_auditors": "1",
+  "auditor_name": "MALLYA AND MALLYA",
+  "auditor_frn_or_membership": {
+    "frn": "576105",
+    "pan": "AABFM8893Q"
+  },
+  "auditor_address": "Auditor Firm Address, Karnataka, India",
+  "auditor_email": "mallyaandmallya@gmail.com",
+  "period_of_account": {
+    "from": "01/04/2023",
+    "to": "31/03/2024",
+    "years": "1"
+  },
+  "agm_date": "30/09/2023",
+  "appointment_date": "29/09/2023",
+  "attachments": [
+    "Consent signed.pdf",
+    "Intimation Letter Signed.pdf",
+    "Acceptance signed.pdf"
+  ],
+  "director": {
+    "name": "Krishna Kumar Rao",
+    "din": "07579495"
+  },
+  "board_resolution_number": "BR001",
+  "board_resolution_date": "29/09/2023"
+}
